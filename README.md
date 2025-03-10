@@ -15,8 +15,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Javascrip](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 # 📊 GitHub Stats:
-[[![](https://github-readme-stats.vercel.app/api/top-langs/?username=smit-faldu&layout=pie)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smit-faldu&layout=pie)
-
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=smit-faldu&layout=pie)](https://github.com/anuraghazra/github-readme-stats)]
 ---
 [![](https://visitcount.itsvg.in/api?id=smit-faldu&icon=0&color=0)](https://visitcount.itsvg.in)
 
