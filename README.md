@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![linkedin](https://smitportfolio-six.vercel.app/#home)
+[![linkedin](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://smitportfolio-six.vercel.app/#home)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit-faldu-450b9a23a/)
 [![Try on Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)](https://huggingface.co/smit-faldu)
 
